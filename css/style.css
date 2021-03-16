@@ -1,0 +1,34 @@
+td :nth-child(odd) {
+    background-color:#ffd3de;
+
+}
+td :nth-child(even) {
+background-color:#f6b8d1 ;
+}
+t
+th{
+    background-color:#ffc0d0;
+}
+#submit{
+    background-color:#ac0d0d ;
+
+}
+#clear {
+    background-color: #609c4d ;
+}
+h1{
+    text-align: center;
+
+}
+header {
+    background-attachment:#3f8f8d;
+
+}
+
+footer {
+    background-color: #5dc0a6;
+
+}
+main { 
+    width:50px;
+}
